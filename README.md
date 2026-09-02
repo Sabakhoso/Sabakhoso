@@ -1,5 +1,5 @@
-# 💫 About Me:
-hey there! ✨<br><br>I’m Saba, a third-year AI student over at the University of Sindh and currently interning at Technify as an AI dev. Honestly, I just really love building cool, practical tech that actually works instead of just sitting pretty in an ide.<br><br>my main vibe right now is connecting LLMs to solid backend systems, building rag pipelines with ChromaDB, and turning wild ideas (like my zero-waste AI chef website or smart hire-AI tools) into real-world code.<br><br>I'm low-key looking for junior remote/onsite gigs, internships, or project collabs where i can build cool stuff with cool people. If you're down to connect, my inbox is always open!
+#  About Me:
+hey there! <br><br>I’m Saba, a third-year AI student over at the University of Sindh and currently interning at Technify as an AI dev. Honestly, I just really love building cool, practical tech that actually works instead of just sitting pretty in an ide.<br><br>my main vibe right now is connecting LLMs to solid backend systems, building rag pipelines with ChromaDB, and turning wild ideas (like my zero-waste AI chef website or smart hire-AI tools) into real-world code.<br><br>I'm low-key looking for junior remote/onsite gigs, internships, or project collabs where i can build cool stuff with cool people. If you're down to connect, my inbox is always open!
 
 
 ## 🌐 Socials:
