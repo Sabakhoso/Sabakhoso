@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=FF4FD8&center=true&vCenter=true&width=750&lines=AI+Practitioner+%7C+AI+%26+Automation;Building+practical+AI+systems;Exploring+GenAI%2C+Agentic+AI%2C+LLMs%2C+AI+Automation+%26+Modern+AI+Tools;BS+Artificial+Intelligence+Student+from+Pakistan" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=FF4FD8&center=true&vCenter=true&width=750&lines=BS+Artificial+Intelligence+Student+from+Pakistan;Building+practical+AI+systems;Exploring+GenAI%2C+Agentic+AI+%26+LLMs;AI+Automation+%26+Modern+AI+Tools" />
 
 <br/>
 
@@ -28,7 +28,7 @@ I'm **Saba Khoso**, an **AI Practitioner** and BS Artificial Intelligence studen
 
 I'm interested in building practical AI systems and exploring how AI can be used to solve real-world problems.
 
-Currently exploring the world of modern AI tools and core AI technologies, robotics & automation, real-world AI solutions.
+Currently exploring modern world of AI tools and modern AI technologies, robotics & automation, real-world AI solutions.
 
 My approach is simple:
 
@@ -143,10 +143,11 @@ Currently building my foundation across artificial intelligence, programming, da
 
 ---
 
-# Currently Exploring
+# Currently Learning
 
 * Gen-AI & Agentic AI
 * LLMs
+* ML/DL algorithms
 * AI Automation
 * RAG Systems
 * Computer Vision
