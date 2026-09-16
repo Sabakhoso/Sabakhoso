@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=180&section=header&text=Saba%20Khoso&fontSize=55&fontColor=FF4FD8&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=SABA%20KHOSO&fontSize=55&font=Fira%20Code&fontColor=FF1493&animation=fadeIn&fontAlignY=50" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=FF4FD8&center=true&vCenter=true&width=750&lines=AI+Practitioner+%7C+AI+%26+Automation;Building+practical+AI+systems;Exploring+GenAI%2C+LLMs+%26+Computer+Vision;BS+Artificial+Intelligence+Student+from+Pakistan" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=FF4FD8&center=true&vCenter=true&width=750&lines=AI+Practitioner+%7C+AI+%26+Automation;Building+practical+AI+systems;Exploring+GenAI%2C+Agentic+AI%2C+LLMs%2C+AI+Automation+%26+Modern+AI+Tools;BS+Artificial+Intelligence+Student+from+Pakistan" />
 
 <br/>
 
@@ -28,7 +28,7 @@ I'm **Saba Khoso**, an **AI Practitioner** and BS Artificial Intelligence studen
 
 I'm interested in building practical AI systems and exploring how AI can be used to solve real-world problems.
 
-Currently exploring **Generative AI, LLMs, AI Automation, RAG, Computer Vision, and Backend Development**.
+Currently exploring the world of modern AI tools and core AI technologies, robotics & automation, real-world AI solutions.
 
 My approach is simple:
 
@@ -145,7 +145,8 @@ Currently building my foundation across artificial intelligence, programming, da
 
 # Currently Exploring
 
-* Generative AI & LLMs
+* Gen-AI & Agentic AI
+* LLMs
 * AI Automation
 * RAG Systems
 * Computer Vision
@@ -184,6 +185,7 @@ class SabaKhoso:
         "LLMs",
         "AI Automation",
         "RAG",
+        "NLP",
         "Computer Vision",
         "Backend Development"
     ]
@@ -191,36 +193,3 @@ class SabaKhoso:
     approach = "Learn → Build → Experiment → Improve"
 
     fun_fact = "Python was supposed to be just a skill... now it's basically part of my personality."
-```
-
----
-
-# Let's Connect
-
-Interested in **AI, GenAI, automation, computer vision, or building useful software?**
-
-Let's connect.
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/saba-khoso-897a10313">
-
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-<a href="mailto:sabakhoso320@gmail.com">
-
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=100&section=footer" width="100%"/>
-
-</div>
